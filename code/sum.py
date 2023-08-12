@@ -4,5 +4,3 @@ b=int(input("enter second number \n"))
 sum= a+b
 
 print(sum)
-
-// Adding this comment for pull
